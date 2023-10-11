@@ -1,0 +1,1 @@
+alert(' pagina contendo virus nao entre') 
